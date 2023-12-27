@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏻 Hi there, I'm Jinri
+## 👋🏻 Hi there, I'm Jinri
 <i>
 @zzznly <br/>
 2nd-year Junior Frontend Developer
