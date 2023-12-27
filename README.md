@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋🏻 Jinri Yoo (zzznly)
+## 👩🏻‍💻 Jinri Yoo (zzznly)
 2nd-year Junior Frontend Developer 🇰🇷
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
