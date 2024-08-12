@@ -3,7 +3,7 @@
 ## 👋🏻 Hi there, I'm Jinri
 <i>
 @zzznly <br/>
-2nd-year Junior Frontend Developer
+Junior Frontend Developer
 </i>
 🇰🇷
 
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-### ⚡️ Stacks
+#### ⚡️ Stacks
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
