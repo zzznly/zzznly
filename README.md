@@ -3,12 +3,13 @@
 
 <br/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/-Vue.js-%2320232a.svg?style=flat&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-%2320232a.svg?style=flat&logo=nuxtdotjs)
 <br/>
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxtdotjs)
-<br/>
-![ReactQuery](https://img.shields.io/badge/-ReactQuery-black?style=flat-square&logo=reactquery)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![vitest](https://img.shields.io/badge/-vitest-%23FFFFFF?style=flat&logo=vitest&logoColor=058a5e)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
