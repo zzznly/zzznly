@@ -3,8 +3,8 @@
 
 <br/>
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-%2320232a?style=flat&logo=JavaScript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-%2320232a?style=flat&logo=TypeScript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
 ![Vue](https://img.shields.io/badge/-Vue.js-%2320232a.svg?style=flat&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-%2320232a.svg?style=flat&logo=nuxtdotjs)
