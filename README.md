@@ -1,5 +1,5 @@
 ### <i>zzznly</i> 🇰🇷
-<i>Full-stack Developer</i>
+<i>Frontend & Full-stack Developer</i>
 
 <br/>
 
@@ -17,6 +17,5 @@
 <br/>
 <br/>
 ![Spring](https://img.shields.io/badge/Spring-%2320232a.svg?style=flat&logo=spring&logoColor=#6DB33F)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=flat&logo=mongodb&logoColor=#6DB33F)
 ![MySQL](https://img.shields.io/badge/MySQL-%2320232a.svg?style=flat&logo=mysql&logoColor=#6DB33F)
 ![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=flat&logo=docker&logoColor=#2496ED)
